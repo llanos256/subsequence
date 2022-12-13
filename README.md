@@ -1,1 +1,1 @@
-Algorithm to get the number de subsequences of a text
+Algorithm to get the number of subsequences in a text
